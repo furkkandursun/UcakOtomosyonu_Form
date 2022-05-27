@@ -1,7 +1,7 @@
 # UcakOtomosyonu_Form
 Uçak Otomasyonu Form İle
 
-no'lu Ömer Tokmak arkadaşımla yaptım
+200702018 no'lu Ömer Tokmak arkadaşımla yaptım
 
 Projeyi çalıştırmak için Microsoft Visual Studio ve SQL programları yeterlidir.
 Admin giriş paneli kull. adı ve şifresi admin 1234 tür.
